@@ -3,6 +3,10 @@
 
 切版練習實作，也方便之後參考
 
+# 線上DEMO
+
+https://ivesshe.github.io/HTML_CSS_GoldFishLayout/
+
 # 圖文滿版區塊 NO001
 
 [圖文滿版區塊 NO001](./N001/N001.html)
