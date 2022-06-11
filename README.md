@@ -24,6 +24,13 @@ https://ivesshe.github.io/HTML_CSS_GoldFishLayout/
 [互動圖文卡片 NO003](./N003/N003.html)
 
 ![image](./images/20211209212532.png)
+
+# 金魚都能懂的網頁切版 : 交錯漂浮版 NO004
+
+[金魚都能懂的網頁切版 : 交錯漂浮版 NO004](./N004/N004.html)
+
+![image](./images/Xnip20220611210007.jpg)
+
 ## 資料來源
 
 CSScoke
