@@ -33,7 +33,7 @@ https://ivesshe.github.io/HTML_CSS_GoldFishLayout/
 
 # 金魚都能懂的網頁切版 : 超通用橫式版面 NO005
 
-[金魚都能懂的網頁切版 : 交錯漂浮版 NO004](./N005/N005.html)
+[金魚都能懂的網頁切版 : 超通用橫式版面 NO005](./N005/N005.html)
 
 ![image](./images/Xnip2022-06-18_11-58-37.jpg)
 
