@@ -37,6 +37,12 @@ https://ivesshe.github.io/HTML_CSS_GoldFishLayout/
 
 ![image](./images/Xnip2022-06-18_11-58-37.jpg)
 
+# 金魚都能懂的網頁切版 : 網頁頁尾版塊 NO006
+
+[金魚都能懂的網頁切版 : 網頁頁尾版塊 NO006](./N006/N006.html)
+
+![image](./images/Xnip2022-06-18_20-21-45.jpg)
+
 ## 資料來源
 
 CSScoke
