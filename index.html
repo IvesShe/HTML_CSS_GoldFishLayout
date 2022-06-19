@@ -68,7 +68,7 @@
       font-weight: 700;
     }
 
-    a {
+    /* a {
       text-decoration: none;
       color: #fff;
     }
@@ -76,6 +76,45 @@
     a:hover {
       text-decoration: none;
       color: #fff;
+    } */
+
+    .banner-link ul {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .banner-link li {
+      display: flex;
+    }
+
+    .banner-link a {
+      font-family: 'Noto Sans TC', sans-serif;
+      text-decoration: none;
+      color: #fff;
+      padding: 5px 1em;
+      position: relative;
+      transform: translateY(0px);
+      transition: .3s;
+    }
+
+    .banner-link a:hover {
+      transform: translateY(-10px);
+    }
+
+    .banner-link a:after {
+      content: '';
+      position: absolute;
+      left: 50%;
+      right: 50%;
+      bottom: -5px;
+      height: 0;
+      border-bottom: 1px solid #fff;
+      transition: .3s;
+    }
+
+    .banner-link a:hover:after {
+      left: 0;
+      right: 0;
     }
   </style>
 </head>
@@ -90,15 +129,18 @@
             這個網頁畫面怎麼切
           </small>
         </h1>
-        <div>
+        <div class="banner-link">
           <ul>
-            <li><a href="./N001/N001.html">金魚都能懂的網頁切版 : 圖文滿版區塊 NO001</a></li>
-            <li><a href="./N002/N002.html">金魚都能懂的網頁切版 : 互動圖文卡片 NO002</a></li>
-            <li><a href="./N003/N003.html">金魚都能懂的網頁切版 : 人員介紹卡片 NO003</a></li>
-            <li><a href="./N004/N004.html">金魚都能懂的網頁切版 : 交錯漂浮版 NO004</a></li>
-            <li><a href="./N005/N005.html">金魚都能懂的網頁切版 : 超通用橫式版面 NO005</a></li>
-            <li><a href="./N006/N006.html">金魚都能懂的網頁切版 : 網頁頁尾版塊 NO006</a></li>
-            <li><a href="./N007/N007.html">金魚都能懂的網頁切版 : 導覽列 NO007</a></li>
+            <li><a href="./N001/N001.html">圖文滿版區塊 NO001</a></li>
+            <li><a href="./N002/N002.html">互動圖文卡片 NO002</a></li>
+            <li><a href="./N003/N003.html">人員介紹卡片 NO003</a></li>
+            <li><a href="./N004/N004.html">交錯漂浮版 NO004</a></li>
+            <li><a href="./N005/N005.html">超通用橫式版面 NO005</a></li>
+            <li><a href="./N006/N006.html">網頁頁尾版塊 NO006</a></li>
+            <li><a href="./N007/N007.html">導覽列 NO007</a></li>
+            <li><a href="./N008/N008.html">變化你的導覽列 NO008</a></li>
+            <li><a href="./N008/N008-1.html">變化你的導覽列 NO008-1</a></li>
+            <li><a href="./N008/N008-2.html">變化你的導覽列 NO008-2</a></li>
           </ul>
         </div>
       </div>
