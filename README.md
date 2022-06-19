@@ -76,6 +76,12 @@ https://ivesshe.github.io/HTML_CSS_GoldFishLayout/
 
 ![image](./images/Xnip2022-06-19_11-52-28.jpg)
 
+# 金魚都能懂的網頁切版 : 方塊酥版面 NO011
+
+[金魚都能懂的網頁切版 : 破格式設計 NO011](./N0011/N0011.html)
+
+![image](./images/Xnip2022-06-19_20-23-40.jpg)
+
 ## 資料來源
 
 CSScoke
