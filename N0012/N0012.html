@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>金魚都能懂的網頁切版 : 表格怎麼切 NO012</title>
+  <!-- <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:100,300,400,500,700,900&display=swap"
+    rel="stylesheet"> -->
+  <style type="text/css">
+    @import url("https://fonts.googleapis.com/css?family=Noto+Sans+TC:100,300,400,500,700,900&display=swap");
+    @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
+
+    * {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      font-family: 'Noto Sans TC', sans-serif;
+    }
+
+    html,
+    body {
+      height: 100%;
+    }
+
+    body {
+      display: flex;
+      align-items: center;
+      background-image: linear-gradient(90deg, #3d5894, #08c7a5);
+    }
+
+    .table {
+      width: 800px;
+      margin: auto;
+
+    }
+
+    .table table {
+      width: 100%;
+      border: 3px double #666;
+      background: #fff;
+      border-radius: 10px;
+    }
+
+    .table thead {
+      background: #333;
+      color: #fff;
+    }
+
+    .table thead th:first-child {
+      border-radius: 7px 0 0 0;
+    }
+
+    .table thead th:last-child {
+      border-radius: 0 7px 0 0;
+    }
+
+    .table tbody tr:nth-child(even) {
+      background-color: #ffa;
+    }
+
+    .table tbody a {
+      color: #777;
+    }
+
+    .table tbody tr:hover {
+      background-color: #fee;
+    }
+
+    .table tfoot td:first-child {
+      border-radius: 0 0 0 7px;
+    }
+
+    .table tfoot td:last-child {
+      border-radius: 0 0 7px 0;
+    }
+
+    .table th {
+      border: 1px solid #666;
+      padding: 6px 10px;
+    }
+
+    .table td {
+      border: 1px solid #666;
+      padding: 6px 10px;
+    }
+
+    .table caption {
+      caption-side: bottom;
+      text-align: right;
+      padding: 10px 0;
+      color: #ccc;
+    }
+
+    .table caption a {
+      color: #eee;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="table">
+    <table>
+      <caption>
+        CSS coke 範例一覽表:資料來源-<a href="https://www.youtube.com/c/csscoke">CSS coke Youtube頻道</a>
+      </caption>
+      <thead>
+        <tr>
+          <th scope="col">基礎版面</th>
+          <th scope="col">破格式版面</th>
+          <th scope="col">滿版</th>
+          <th scope="col">選單</th>
+          <th scope="col">表單</th>
+          <th scope="col">表格</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <a href="https://youtu.be/rwTMBmnIHcY" target="_blank">圖文滿版</a>
+          </td>
+          <td>
+            <a href="https://youtu.be/aN7zFs_AT8s" target="_blank">交錯漂浮版</a>
+          </td>
+          <td>
+            <a href="https://youtu.be/rwTMBmnIHcY" target="_blank">圖文滿版</a>
+          </td>
+          <td>
+            <a href="https://youtu.be/7BydlKueTgY" target="_blank">導覽列</a>
+          </td>
+          <td>敬請期待</td>
+          <td>
+            <a href="https://youtu.be/zRREfvlLFIU" target="_blank">表格怎麼切</a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://youtu.be/IocyLERRdko" target="_blank">互動圖文卡片</a>
+          </td>
+          <td>
+            <a href="https://youtu.be/l-sQNXNrw3s" target="_blank">破格式設計</a>
+          </td>
+          <td>
+            <a href="https://youtu.be/-mmzaE6eLzY" target="_blank">超通用橫式版面</a>
+          </td>
+          <td>
+            <a href="https://youtu.be/9xT8kziyYko" target="_blank">變化你的導覽列</a>
+          </td>
+          <td>敬請期待</td>
+          <td>敬請期待</td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://youtu.be/2Qs0EuqJIYA" target="_blank">人員介紹卡片</a>
+          </td>
+          <td>敬請期待</td>
+          <td>敬請期待</td>
+          <td>
+            <a href="https://youtu.be/n0yPFtpVRLU" target="_blank">網站麵包屑</a>
+          </td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://youtu.be/-mmzaE6eLzY" target="_blank">超通用橫式版面</a>
+          </td>
+          <td></td>
+          <td></td>
+          <td>敬請期待</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://youtu.be/Y02yl_QQNv0" target="_blank">網頁頁尾</a>
+          </td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://youtu.be/Xhhzzc9YZW4" target="_blank">方塊酥版面</a>
+          </td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td>備註</td>
+          <td colspan="5">以上資料經 CSS coke 同意轉貼</td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+</body>
+
+</html>

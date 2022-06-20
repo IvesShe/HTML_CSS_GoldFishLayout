@@ -82,6 +82,13 @@ https://ivesshe.github.io/HTML_CSS_GoldFishLayout/
 
 ![image](./images/Xnip2022-06-19_20-23-40.jpg)
 
+# 金魚都能懂的網頁切版 : 表格怎麼切 NO012
+
+[金魚都能懂的網頁切版 : 表格怎麼切 NO012](./N0012/N0012.html)
+
+![image](./images/Xnip2022-06-20_20-20-33.jpg)
+
+
 ## 資料來源
 
 CSScoke
