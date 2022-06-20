@@ -88,6 +88,12 @@ https://ivesshe.github.io/HTML_CSS_GoldFishLayout/
 
 ![image](./images/Xnip2022-06-20_20-20-33.jpg)
 
+# 金魚都能懂的網頁切版 : 側邊選單怎麼切 NO013
+
+[金魚都能懂的網頁切版 : 側邊選單怎麼切 NO013](./N0013/N0013.html)
+
+![image](./images/Xnip2022-06-20_20-53-38.jpg)
+
 
 ## 資料來源
 
