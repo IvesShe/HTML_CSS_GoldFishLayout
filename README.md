@@ -123,7 +123,7 @@ https://ivesshe.github.io/HTML_CSS_GoldFishLayout/
 
 [金魚都能懂的網頁切版 : 訊息對話紀錄 NO018](./N0018/N0018.html)
 
-![image](./images/Xnip2022-06-25_16-54-58.jpg)
+![image](./images/Xnip2022-06-25_20-17-42.jpg)
 
 ## 資料來源
 
