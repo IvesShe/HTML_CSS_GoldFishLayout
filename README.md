@@ -119,6 +119,12 @@ https://ivesshe.github.io/HTML_CSS_GoldFishLayout/
 
 ![image](./images/Xnip2022-06-25_16-54-58.jpg)
 
+# 金魚都能懂的網頁切版 : 訊息對話紀錄 NO018
+
+[金魚都能懂的網頁切版 : 訊息對話紀錄 NO018](./N0018/N0018.html)
+
+![image](./images/Xnip2022-06-25_16-54-58.jpg)
+
 ## 資料來源
 
 CSScoke
