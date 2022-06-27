@@ -143,6 +143,20 @@ https://ivesshe.github.io/HTML_CSS_GoldFishLayout/
 
 ![image](./images/Xnip2022-06-27_20-35-08.jpg)
 
+# 金魚都能懂的網頁切版 : 文字排版-上集 NO022
+
+[金魚都能懂的網頁切版 : 文字排版-上集 NO022](./N0022/N0022.html)
+
+![image](./images/Xnip2022-06-27_20-58-55.jpg)
+
+[金魚都能懂的網頁切版 : 文字排版-上集 NO022-1](./N0022/N0022-1.html)
+
+![image](./images/Xnip2022-06-27_20-59-03.jpg)
+
+[金魚都能懂的網頁切版 : 文字排版-上集 NO022-2](./N0022/N0022-2.html)
+
+![image](./images/Xnip2022-06-27_20-59-15.jpg)
+
 ## 資料來源
 
 CSScoke
