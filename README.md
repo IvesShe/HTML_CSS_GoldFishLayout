@@ -131,6 +131,12 @@ https://ivesshe.github.io/HTML_CSS_GoldFishLayout/
 
 ![image](./images/Xnip2022-06-25_20-58-12.jpg)
 
+# 金魚都能懂的網頁切版 : 旋轉拼接方塊 NO020
+
+[金魚都能懂的網頁切版 : 旋轉拼接方塊 NO020](./N0020/N0020.html)
+
+![image](./images/Xnip2022-06-27_20-01-36.jpg)
+
 ## 資料來源
 
 CSScoke
