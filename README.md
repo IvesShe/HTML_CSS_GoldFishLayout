@@ -151,11 +151,11 @@ https://ivesshe.github.io/HTML_CSS_GoldFishLayout/
 
 [金魚都能懂的網頁切版 : 文字排版-上集 NO022-1](./N0022/N0022-1.html)
 
-![image](./images/Xnip2022-06-27_20-59-03.jpg)
+![image](./images/Xnip2022-06-27_21-04-41.jpg)
 
 [金魚都能懂的網頁切版 : 文字排版-上集 NO022-2](./N0022/N0022-2.html)
 
-![image](./images/Xnip2022-06-27_20-59-15.jpg)
+![image](./images/Xnip2022-06-27_21-04-54.jpg)
 
 ## 資料來源
 
