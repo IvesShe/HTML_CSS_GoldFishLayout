@@ -137,6 +137,12 @@ https://ivesshe.github.io/HTML_CSS_GoldFishLayout/
 
 ![image](./images/Xnip2022-06-27_20-01-36.jpg)
 
+# 金魚都能懂的網頁切版 : 不規則邊緣 NO021
+
+[金魚都能懂的網頁切版 : 不規則邊緣 NO021](./N0021/N0021.html)
+
+![image](./images/Xnip2022-06-27_20-35-08.jpg)
+
 ## 資料來源
 
 CSScoke
