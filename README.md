@@ -185,7 +185,7 @@ https://ivesshe.github.io/HTML_CSS_GoldFishLayout/
 
 ![image](./images/Xnip2022-06-29_20-53-46.jpg)
 
-# 金魚都能懂的網頁切版 : 文字排版-中集 NO024
+# 金魚都能懂的網頁切版 : 文字排版-完結 NO025
 
 [金魚都能懂的網頁切版 : 文字排版-完結 NO025](./N0025/N0025.html)
 
