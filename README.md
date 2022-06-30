@@ -202,6 +202,13 @@ https://ivesshe.github.io/HTML_CSS_GoldFishLayout/
 [金魚都能懂的網頁切版 : 文字排版-完結 NO025-3](./N0025/N0025-3.html)
 
 ![image](./images/Xnip2022-06-30_20-21-21.jpg)
+
+# 金魚都能懂的網頁切版 : 快速版面拼拼樂 NO026
+
+[金魚都能懂的網頁切版 : 快速版面拼拼樂 NO026](./N0026/N0026.html)
+
+![image](./images/Xnip2022-06-30_20-20-53.jpg)
+
 ## 資料來源
 
 CSScoke
