@@ -207,7 +207,15 @@ https://ivesshe.github.io/HTML_CSS_GoldFishLayout/
 
 [金魚都能懂的網頁切版 : 快速版面拼拼樂 NO026](./N0026/N0026.html)
 
-![image](./images/Xnip2022-06-30_20-20-53.jpg)
+![image](./images/Xnip2022-07-01_12-11-56.jpg)
+
+![image](./images/Xnip2022-07-01_12-12-06.jpg)
+
+![image](./images/Xnip2022-07-01_12-12-13.jpg)
+
+![image](./images/Xnip2022-07-01_12-12-26.jpg)
+
+![image](./images/Xnip2022-07-01_12-12-31.jpg)
 
 ## 資料來源
 
