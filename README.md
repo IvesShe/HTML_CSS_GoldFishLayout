@@ -217,8 +217,22 @@ https://ivesshe.github.io/HTML_CSS_GoldFishLayout/
 
 ![image](./images/Xnip2022-07-01_12-12-31.jpg)
 
+# 金魚都能懂的網頁切版 : 拼拼版-重構 NO027
+
+[金魚都能懂的網頁切版 : 拼拼版-重構 NO027](./N0027/N0027.html)
+
+![image](./images/Xnip2022-07-01_20-00-25.jpg)
+
+![image](./images/Xnip2022-07-01_20-00-35.jpg)
+
+![image](./images/Xnip2022-07-01_20-00-44.jpg)
+
+![image](./images/Xnip2022-07-01_20-00-54.jpg)
+
 ## 資料來源
 
 CSScoke
 
 https://www.youtube.com/watch?v=rwTMBmnIHcY&list=PLqivELodHt3hxeuLX8PYaI8u1GcDaBoJo&ab_channel=CSScoke
+
+https://ithelp.ithome.com.tw/users/20112550/ironman/2623?page=1
